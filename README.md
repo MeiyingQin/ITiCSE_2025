@@ -2,9 +2,9 @@
 
 This repository complements two Tips, Techniques, and Courseware (TT&C) submissions accepted at the 30th Annual ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE 2025):
 
-- **Biology Project**..
+- **Biology Project**\
   *Meiying Qin\*, Jade Atallah\*, Jonatan Schroeder, Larry Yueli Zhang, and Hovig Kouyoumdjian. 2025. Contextual Learning in CS1: Integrating a Biology Project to Reinforce Core Programming Concepts. In Proceedings of the 30th ACM Conference on Innovation and Technology in Computer Science Education V. 2 (ITiCSE 2025), June 27-July 2, 2025, Nijmegen, Netherlands. ACM, New York, NY, USA, 2 pages. [https://doi.org/10.1145/3724389.3731273](https://doi.org/10.1145/3724389.3731273) (\* equal contriution)*
-- **Chemistry Project**..
+- **Chemistry Project**\
   *Meiying Qin\*, Hovig Kouyoumdjian\*, Jonatan Schroeder, Larry Yueli Zhang, and Jade Atallah. 2025. Contextual Learning in CS1: Integrating a Chemistry Project to Reinforce Core Programming Concepts. In Proceedings of the 30th ACM Conference on Innovation and Technology in Computer Science Education V. 2 (ITiCSE 2025), June 27-July 2, 2025, Nijmegen, Netherlands. ACM, New York, NY, USA, 2 pages. [https://doi.org/10.1145/3724389.3731272](https://doi.org/10.1145/3724389.3731272) (\* equal contriution)*
 
 These projects introduce contextual learning into a CS1 course through real-world applications in biology and chemistry. Students gained hands-on experience applying programming to scientific problems, reinforcing core concepts while exploring domain-specific challenges.
