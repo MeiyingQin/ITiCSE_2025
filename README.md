@@ -29,6 +29,6 @@ For the chemistry project, you will need the following packages:
 
 You can also try out the assignment here yourself: [https://us.prairielearn.com/pl/course_instance/185116](https://us.prairielearn.com/pl/course_instance/185116), or by scanning the QR code:
 
-![QR code to the assignment](./assets/QR_code_PL.jpg)
+![QR code to the assignment](./assets/QR_code_PL.jpg =x200)
 
 You may enroll yourself with a google account.
