@@ -24,3 +24,11 @@ For the chemistry project, you will need the following packages:
 - **rdkit** (a cheminformatics API, used to get properties and draw compounds): `pip install rdkit`
 
 *To request the solution, please contact Meiying Qin at [mqin@yorku.ca](mailto:mqin@yorku.ca).*
+
+## Try out the assignment
+
+You can also try out the assignment here yourself: [https://us.prairielearn.com/pl/course_instance/185116](https://us.prairielearn.com/pl/course_instance/185116), or by scanning the QR code:
+
+![QR code to the assignment](./assets/QR_code_PL.png)
+
+You may enroll yourself with a google account.
